@@ -69,6 +69,7 @@ A targeted **LKR 100,000** marketing campaign focused on **Electronics** in the 
 ### Google Looker Analysis
 * **Category Deep-Dive:** Scatter plots showing the correlation between sales volume and profitability.
 * **Daily Profit Trends:** A time-series analysis of profit fluctuations from 2023 to 2025.
+* * **Link:** https://lookerstudio.google.com/u/0/reporting/43360421-99aa-43a0-a8ea-5e55c9c19026/page/FDNmF
 
 ---
 
